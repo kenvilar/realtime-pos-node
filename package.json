@@ -1,0 +1,26 @@
+{
+  "name": "real-rime-pos-system-node",
+  "version": "1.0.0",
+  "description": "Node.js app that connect the react-pos app to the Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenvilar/real-rime-pos-system-node.git"
+  },
+  "author": "Ken Vilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenvilar/real-rime-pos-system-node/issues"
+  },
+  "homepage": "https://github.com/kenvilar/real-rime-pos-system-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.1"
+  }
+}
